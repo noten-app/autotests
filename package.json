@@ -1,0 +1,22 @@
+{
+  "name": "noten-app-autotests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noten-app/autotests.git"
+  },
+  "author": "Noten-App Contributors",
+  "bugs": {
+    "url": "https://github.com/noten-app/autotests/issues"
+  },
+  "homepage": "https://github.com/noten-app/autotests#readme",
+  "devDependencies": {
+    "jest": "^29.6.4",
+    "jest-runner-eslint": "^2.1.0"
+  }
+}
